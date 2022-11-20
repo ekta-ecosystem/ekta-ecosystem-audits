@@ -7,7 +7,7 @@ Following are the directories based on products.
 Ekta Bridge
 Bridge Contracts for bridging Ekta Token from BSC to EktaChain and from Ethereum to EktaChain and vise versa. 
 
-Ekta NFT Marketplace 
+Ekta NFT Marketplace /n
 Ekta NFT Marketplace contains audit of all the contracts that control how currented marketplace with admin, partner and end user dashboards.
 
 Ekta Portal NFT 
